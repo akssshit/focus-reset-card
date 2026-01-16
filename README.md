@@ -1,2 +1,8 @@
-# focus-reset-card
-A simple quick coding project that I made on my last exam of FA-3.
+## Focus Comeback Card
+A minimal glassmorphism card built with HTML & CSS.
+Made as a mindset reset after exams.
+
+### Tech
+- HTML
+- CSS
+
